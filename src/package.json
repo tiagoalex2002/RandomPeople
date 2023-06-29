@@ -1,0 +1,14 @@
+{
+  "scripts":{
+    "start": "node index.js",
+    "dev": "nodemon index.ts"
+  },
+  "dependencies": {
+    "init": "^0.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
